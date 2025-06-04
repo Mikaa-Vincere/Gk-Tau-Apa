@@ -1,1 +1,1 @@
-# allowed_ids.json
+# Tukang Jual Bubur Ayam :)
